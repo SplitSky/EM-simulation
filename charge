@@ -1,0 +1,1 @@
+{"canvas":"{\"canvasWorldPos\":[0,0,0],\"canvasLineDensity\":50,\"canvasTimeInterval\":1,\"canvasChargeSize\":25}","charges":"[\"{\\\"type\\\":\\\"proton\\\",\\\"ID\\\":0,\\\"resultantForce\\\":[0,0,0],\\\"position\\\":[250,250,0],\\\"charge\\\":1.6000000000000002e-19,\\\"velocity\\\":[0,0,0],\\\"mass\\\":9.6e-31}\"]","fields":"[]","magnets":"[]"}
